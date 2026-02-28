@@ -1,5 +1,1 @@
-[
-{'userId': 101, 'id': 1, 'title': 'Title101', 'completed': False},
-{'userId': 102, 'id': 2, 'title': 'Title102', 'completed': False},
-{'userId': 103, 'id': 3, 'title': 'Title103', 'completed': True}
-]
+{'userId': 101, 'id': 1, 'title': 'Title101', 'completed': False}
